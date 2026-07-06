@@ -5,6 +5,7 @@
 
 main {
   width: 100%;
+  margin-top: 20px;
 }
 
 .container {
@@ -15,4 +16,10 @@ main {
 	padding: 20px;
 	border: 1px solid #ccc;
 	border-radius: 5px;
+}
+header {
+	width: 100%;
+	background-color: rgb(215, 225, 234);
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
