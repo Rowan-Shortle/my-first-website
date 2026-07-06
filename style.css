@@ -23,3 +23,12 @@ header {
 	padding-bottom: 10px;
 	padding-top: 10px;
 }
+#next-page {
+	background-color: rgb(8, 205, 4);
+	color: rgb(255, 255, 255);
+	outline-style: none;
+	border: 0px;
+	height: 30px;
+	width: 85px;
+	border-radius: 20px;
+}
