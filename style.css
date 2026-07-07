@@ -29,8 +29,13 @@ header {
 	outline-style: none;
 	border: 0px;
 	height: 30px;
-	width: 85px;
+	width: auto;
 	border-radius: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-weight: bold;
+	display: flex;
+	align-items: center;
 }
 .page-navigation {
 	max-width: 800px;
@@ -38,4 +43,8 @@ header {
 	margin-right: auto;
 	margin-top: 25px;
 	text-align: right;
+}
+.arrow {
+	font-size: 25px;
+	align-items: center;
 }
