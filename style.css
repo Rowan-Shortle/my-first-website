@@ -23,3 +23,19 @@ header {
 	padding-bottom: 10px;
 	padding-top: 10px;
 }
+.page-button {
+	background-color: rgb(8, 205, 4);
+	color: rgb(255, 255, 255);
+	outline-style: none;
+	border: 0px;
+	height: 30px;
+	width: 85px;
+	border-radius: 20px;
+}
+.page-navigation {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+	text-align: right;
+}
